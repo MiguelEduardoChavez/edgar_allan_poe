@@ -1,0 +1,82 @@
+/*Colores Base
+http://http://www.colourlovers.com/palette/109188/antidesign*/
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Bree+Serif);
+body{
+	background-color: #F4F1F1;
+}
+header {
+	background: #040004;
+	text-align: center;
+}	
+hr{
+	margin:20px;
+}
+nav {
+	display: inline-block;
+	font-family: 'Pacifico', cursive;
+}
+nav ul {
+	padding:0px;
+}
+nav ul li {
+		display: inline-block;
+}
+
+nav ul li a {
+	display: block;
+	text-decoration: none;
+	color:  #C8FF00;
+	font-size: 20px;
+	margin: 15px;
+	padding-left: 0px
+	}	
+a{
+	color: #848779;
+}
+.h1-1{
+font-family: 'Bree Serif', serif;
+color: #413D3D;
+}
+.h2-2{
+font-family: 'Bree Serif', serif;
+color: #413D3D;
+}
+.p1{
+	font-family: 'Bree Serif', serif;
+    color: #413D3D;
+    text-align : justify;
+    margin:20px; 
+}	
+.contenedor{
+  background-color: #E7E1E1;
+  margin: 20px;
+  border-radius: 8px;
+  color: #FA023C;
+  overflow: hidden;
+}
+.contenedor2{
+	background-color: #E9EDD9;
+	overflow: hidden;
+}
+.contenedor3{
+	background-color: #ECE4E5;
+	text-align: right;
+	overflow: hidden;
+}
+.img-general{
+	max-height: 350px;
+	float: right;
+	
+}
+.img-general-1{
+	max-height: 350px;	
+	float: left;
+}
+.mi-footer{
+	background-color:#040004;
+	color:#C8FF00;
+	font-size: 12px;
+	text-align: center;
+	padding: 10px;
+}
